@@ -23,6 +23,9 @@ pixel values.
 
 *High Pass Filter:* It tends to retain the high-frequency information within an image while reducing the low-frequency information. The kernel of the high pass filter is designed to increase the brightness of the center pixel relative to neighboring pixels
 
+## Contributors
+Vijayasri Iyer & Madhumithaa V
+
 
 
 
